@@ -18,8 +18,8 @@ Optional-works for interesting.
 
 ## traffic to badge
 
-- [ ] traffic 设为分支
-- [ ] 结构中各仓库为该分支下的文件夹，文件夹中包含数据和 svg
+- [x] traffic 设为分支
+- [x] 结构中各仓库为该分支下的文件夹，文件夹中包含数据和 svg
 - [ ] readme 中包含所有的 svg 展示
 
 ## gpg 验证

@@ -1,12 +1,6 @@
-## optional-works for November
+# optional-works for December
 
 Optional-works for interesting.
-
-## get repo list action
-
-实现个人管理项目集合的前置。
-
-- [ ] 增加 blockList
 
 ## traffic to badge
 
@@ -16,3 +10,7 @@ Optional-works for interesting.
 
 - [ ] 注意 vscode 配置
 - [ ] 注意 gitee 有显示 bug
+
+## Application-lists
+
+- [ ] 修复完善
